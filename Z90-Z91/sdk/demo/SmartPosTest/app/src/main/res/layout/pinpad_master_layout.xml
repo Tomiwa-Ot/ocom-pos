@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:orientation="vertical"
+            tools:ignore="Suspicious0dp">
+
+            <!--   <TextView
+                   android:layout_width="match_parent"
+                   android:layout_height="40dp"
+                   android:gravity="center_vertical"
+                   android:text="@string/input_master_key_meg"
+                   android:textSize="16dp"
+                   android:textColor="@color/colorAccent" />
+
+               <ImageView android:layout_width="match_parent"
+                   android:layout_height="1dp"
+                   android:background="@color/black"/>-->
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="@string/input_master_key_index"
+            android:textColor="@color/black"
+            android:textSize="16dp"
+            android:gravity="center_vertical"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:id="@+id/masterKeyIndex"
+            android:textSize="16dp"
+            android:maxLength="1"
+            android:text="0"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="@string/input_master_key_front"
+            android:textColor="@color/black"
+            android:textSize="16dp"
+            android:gravity="center_vertical"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:id="@+id/masterKey1"
+            android:textSize="16dp"
+            android:maxLength="16"
+            android:text="3131313131313131"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="@string/input_master_key_back"
+            android:textColor="@color/black"
+            android:textSize="16dp"
+            android:gravity="center_vertical"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:id="@+id/masterKey2"
+            android:textSize="16dp"
+            android:maxLength="16"
+            android:text="3232323232323232"/>
+
+
+    </LinearLayout>
+</LinearLayout>

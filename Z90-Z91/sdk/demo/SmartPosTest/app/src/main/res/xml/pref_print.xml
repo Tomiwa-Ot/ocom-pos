@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:key="@string/key_paper_print"
+        android:title="@string/pref_paper_print">
+        <Preference
+            android:key="@string/key_paper_out"
+            android:title="@string/pref_paper_out"/>
+
+        <ListPreference
+            android:entries="@array/print_fonts_choose"
+            android:entryValues="@array/print_fonts_choose_value"
+            android:key="@string/key_print_text"
+            android:title="@string/pref_print_text"/>
+        <Preference
+            android:key="@string/key_print_pic"
+            android:title="@string/pref_print_pic"/>
+        <Preference
+            android:key="@string/key_print_qr"
+            android:title="@string/pref_print_qr"/>
+        <Preference
+            android:key="@string/key_print_bar"
+            android:title="@string/pref_print_bar"/>
+
+        <Preference
+            android:key="@string/key_print_loop"
+            android:title="@string/pref_print_loop"/>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="@string/key_label_print"
+        android:title="@string/pref_label_print">
+        <Preference
+            android:key="@string/key_print_label"
+            android:title="@string/pref_print_label"/>
+
+        <Preference
+            android:key="@string/key_print_label_loop"
+            android:title="@string/pref_print_label_loop"/>
+    </PreferenceCategory>
+</PreferenceScreen>

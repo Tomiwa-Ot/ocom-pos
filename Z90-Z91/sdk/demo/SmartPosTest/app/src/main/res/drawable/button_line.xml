@@ -1,0 +1,22 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">  
+    <item android:state_pressed="true" >  
+        <shape >  
+			<stroke android:width="2dip" android:color="@color/light_blue" />  
+			<corners android:radius="5dip"/>
+        </shape>  
+    </item>  
+   
+    <item android:state_focused="true" >  
+        <shape >  
+            <stroke android:width="2dip" android:color="@color/light_blue" />  
+            <corners android:radius="5dip"/>
+        </shape>  
+    </item>  
+   
+    <item>  
+        <shape >  
+           <stroke android:width="2dip" android:color="@color/white" />  
+           <corners android:radius="5dip"/>
+        </shape>  
+    </item>  
+</selector>  

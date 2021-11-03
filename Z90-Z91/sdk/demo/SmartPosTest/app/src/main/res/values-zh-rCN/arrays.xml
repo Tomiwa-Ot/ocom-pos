@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="led_lights_value">
+        <item>红</item>
+        <item>绿</item>
+        <item>黄</item>
+        <item>蓝</item>
+        <item>所有</item>
+        <item>所有关闭</item>
+    </string-array>
+    <string-array name="update_f_value">
+        <item>网络</item>
+        <item>本地</item>
+    </string-array>
+    <string-array name="print_fonts_choose">
+        <item>默认字体</item>
+        <item>幼圆体</item>
+    </string-array>
+    <string-array name="print_fonts_choose_value">
+        <item>Default</item>
+        <item>youyuan</item>
+    </string-array>
+    <string-array name="led_lights">
+        <item>RED</item>
+        <item>GREEN</item>
+        <item>YELLOW</item>
+        <item>BLUE</item>
+        <item>ALL</item>
+        <item>ALL_OFF</item>
+    </string-array>
+
+    <string-array name="print_font_size">
+        <item>DEFAULT_SIZE</item>
+        <item>DOUBLE_WIDTH</item>
+        <item>DOUBLE_HEIGHT</item>
+        <item>DOUBLE_WIDTH_HEIGHT</item>
+    </string-array>
+    <string-array name="print_align">
+        <item>ALIGN_LEFT</item>
+        <item>ALIGN_CENTER</item>
+        <item>ALIGN_RIGHT</item>
+    </string-array>
+
+    <string-array name="print_align_layout">
+        <item>ALIGN_NORMAL</item>
+        <item>ALIGN_OPPOSITE</item>
+        <item>ALIGN_CENTER</item>
+        <item>ALIGN_LEFT</item>
+        <item>ALIGN_RIGHT</item>
+    </string-array>
+    <string-array name="pinpad_mac_algorithm">
+        <item> ECB</item>
+        <item>ANSI_X_9_9</item>
+        <item>ANSI_X_9_19</item>
+        <item>XOR</item>
+    </string-array>
+</resources>

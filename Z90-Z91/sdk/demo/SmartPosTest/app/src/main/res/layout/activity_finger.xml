@@ -1,0 +1,150 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:focusable="true"
+              android:focusableInTouchMode="true"
+              android:orientation="vertical">
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/et_finger_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Input finger id"
+            android:text="0"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <com.google.android.flexbox.FlexboxLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:alignContent="flex_start"
+        app:alignItems="center"
+        app:flexDirection="row"
+        app:flexWrap="wrap"
+        app:justifyContent="flex_start">
+
+        <Button
+            android:id="@+id/bt_add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Capture"
+            android:textAllCaps="false"/>
+
+        <Button
+            android:id="@+id/bt_get_feature"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Get feature"
+            android:textAllCaps="false"/>
+
+        <Button
+            android:id="@+id/bt_iso"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Get ISO feature"
+            android:textAllCaps="false"/>
+
+        <Button
+            android:id="@+id/bt_enroll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Enroll"
+            android:textAllCaps="false"/>
+
+        <Button
+            android:id="@+id/bt_verify"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Verify"
+            android:textAllCaps="false"/>
+
+        <Button
+            android:id="@+id/bt_identify"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Identify"
+            android:textAllCaps="false"/>
+
+        <Button
+            android:id="@+id/bt_verify_feature"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="VerifyWithFeature"
+            android:textAllCaps="false"/>
+
+        <Button
+            android:id="@+id/bt_verify_ISO_feature"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="VerifyWithISOFeature"
+            android:textAllCaps="false"/>
+
+        <Button
+            android:id="@+id/bt_search_feature"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SearchFeature"
+            android:textAllCaps="false"/>
+
+        <Button
+            android:id="@+id/bt_search_ISO_feature"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SearchISOFeature"
+            android:textAllCaps="false"/>
+
+        <Button
+            android:id="@+id/bt_get_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Get count"
+            android:textAllCaps="false"/>
+
+        <Button
+            android:id="@+id/bt_get_enrolled_list"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Get enrolled list"
+            android:textAllCaps="false"/>
+
+        <Button
+            android:id="@+id/bt_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Delete"
+            android:textAllCaps="false"/>
+
+        <Button
+            android:id="@+id/bt_delete_all"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Delete all"
+            android:textAllCaps="false"/>
+    </com.google.android.flexbox.FlexboxLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/text_status"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text=""/>
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/iv_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/ic_launcher"
+        android:visibility="gone"/>
+
+</LinearLayout>

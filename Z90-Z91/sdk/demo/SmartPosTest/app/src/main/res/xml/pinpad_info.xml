@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Preference
+        android:key="@string/key_setmaster_key"
+        android:title="@string/pref_setmaster_key"/>
+    <Preference
+        android:key="@string/key_setworkKey"
+        android:title="@string/pref_setworkKey"/>
+    <Preference
+        android:key="@string/key_getpinblock"
+        android:title="@string/pref_getpinblock"/>
+    <Preference
+        android:key="@string/key_getmac"
+        android:title="@string/pref_getmac"/>
+
+    <Preference
+        android:key="@string/key_track_encrypt"
+        android:title="@string/pref_track_encrypt"/>
+</PreferenceScreen>

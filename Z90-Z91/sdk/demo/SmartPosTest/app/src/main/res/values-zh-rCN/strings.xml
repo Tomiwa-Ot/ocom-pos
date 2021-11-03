@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">测试程序</string>
+    <!--menu-->
+    <string name="menu_scan">扫码激活</string>
+    <string name="input_pwd">请输入密码</string>
+    <string name="pwd_wrong">密码错误</string>
+    <string name="menu_debug">debug</string>
+    <string name="menu_home">主页</string>
+    <string name="menu_amount">设置金额</string>
+    <string name="menu_log">清除日志</string>
+    <string name="btn_confirm">OK</string>
+
+    <!--dialog-->
+    <string name="title_error">错误</string>
+    <string name="title_card">卡信息</string>
+    <string name="title_apdu">APDU</string>
+    <!--progress dialog-->
+
+    <string name="msg_reading">正在读卡…</string>
+    <string name="msg_psam1_reading">正在读PSAM1卡…</string>
+    <string name="msg_psam2_reading">正在读PSAM2卡…</string>
+    <string name="msg_init">初始化</string>
+    <string name="title_bank_card">银行卡</string>
+    <string name="title_mag_card">磁卡</string>
+    <string name="title_ic_card">IC卡</string>
+    <string name="title_rf_card">闪付卡</string>
+    <string name="msg_bank_card">请使用您的银行卡</string>
+    <string name="msg_mag_card">请刷卡</string>
+    <string name="msg_ic_card">请插入IC卡</string>
+    <string name="msg_rf_card">请挥卡</string>
+    <string name="msg_m1_card">请挥M1卡</string>
+    <string name="msg_mf_puls_card">请挥mf puls卡</string>
+
+    <!--print-->
+    <string name="specified_text">指定文本</string>
+    <string name="print_text">文本</string>
+    <string name="print_text_hint">请输入要打印的文本</string>
+    <string name="print_text_size">文本大小px</string>
+    <string name="print_alignment">对齐方式</string>
+    <string name="print_speed">打印速度</string>
+    <string name="print_line_spacing">行间距</string>
+    <string name="print_col_spacing">列间距</string>
+    <string name="print_m">矢量模式</string>
+    <string name="print_underline">下划线</string>
+    <string name="print_scaleX">字体横向缩放(0~1)</string>
+    <string name="print_qr">二维码</string>
+    <string name="print_qr_hint">输入要打印的二维码数据</string>
+    <string name="print_font">字体</string>
+    <string name="print_font_style">字体样式</string>
+    <string name="print_width">宽：</string>
+    <string name="print_height">高：</string>
+    <string name="print_bar_code">条码</string>
+    <string name="print_show_under">显示下方条码数据</string>
+    <string name="print_pic">图片</string>
+    <string name="print_def_pic">使用默认图片</string>
+    <string name="print_choose_pic">选择打印的图片</string>
+
+    <string name="btn_print_text">打印文本</string>
+    <string name="btn_print_m">打印位图</string>
+    <string name="btn_print_qr">打印二维码</string>
+    <string name="btn_print_bar">打印条码</string>
+    <string name="btn_print_pic">打印图片</string>
+    <string name="btn_print_def">打印默认</string>
+    <string name="btn_print_paper_out">出纸</string>
+    <string name="btn_print_above_all">打印下方设置</string>
+    <string name="print_init_failed">打印初始化失败</string>
+
+    <string name="init_success">初始化成功</string>
+    <string name="init_failed">初始化失败</string>
+
+    <!--qr-->
+    <string name="qr_test">二维码测试</string>
+    <string name="btn_send_qrcode">发送结果</string>
+    <string name="btn_scan_again">重新扫描</string>
+    <string name="btn_create_qrcode">生成二维码</string>
+    <string name="btn_scan_qrcode">二维码扫描</string>
+    <string name="btn_long_press_to_identify_qrcode">长按识别二维码</string>
+
+    <string name="title_waiting">Waiting</string>
+    <string name="SDK_OK">OK</string>
+    <string name="SDK_ERROR">Error</string>
+    <string name="SDK_PARAMERR">Params error</string>
+    <string name="SDK_TIMEOUT">Timeout</string>
+    <string name="SDK_RECV_DATA_ERROR">Recv data error</string>
+    <string name="SDK_ICC_BASE_ERR">Icc base error</string>
+    <string name="SDK_ICC_ERROR">Icc error</string>
+    <string name="SDK_ICC_PARAM_ERROR">Icc param error</string>
+    <string name="SDK_ICC_NO_CARD">Icc no card</string>
+    <string name="SDK_ICC_NO_RESP">Icc no resp</string>
+    <string name="SDK_ICC_COMM_ERR">Icc communicate error</string>
+    <string name="SDK_ICC_RESP_ERR">Icc resp error</string>
+    <string name="SDK_ICC_NO_POWER_ON">Icc no power on</string>
+    <string name="SDK_RF_BASE_ERR">Rf base error</string>
+    <string name="SDK_RF_ERROR">Rf error</string>
+    <string name="SDK_RF_PARAM_ERROR">Rf param error</string>
+    <string name="SDK_RF_ERR_NOCARD">Rf no card</string>
+    <string name="SDK_RF_ERR_CARD_CONFLICT">Rf card conflict</string>
+    <string name="SDK_RF_TIME_OUT">Rf time out</string>
+    <string name="SDK_RF_PROTOCOL_ERROR">Rf error protocol</string>
+    <string name="SDK_RF_TRANSMISSION_ERROR">Rf transmission error</string>
+    <string name="SDK_MAG_BASE_ERR">Mag base error</string>
+    <string name="SDK_MAG_ERROR">Sdk mag error</string>
+    <string name="SDK_MAG_PARAM_ERROR">Mag param error</string>
+    <string name="SDK_MAG_NO_BRUSH">Mag no brush</string>
+    <string name="SDK_PRN_BASE_ERR">Print base error</string>
+    <string name="SDK_PRN_ERROR">Print error</string>
+    <string name="SDK_PRN_PARAM_ERROR">Print params error</string>
+    <string name="SDK_PRN_STATUS_PAPEROUT">Print status paper out</string>
+    <string name="SDK_PRN_STATUS_TOOHEAT">Print status too heat</string>
+    <string name="SDK_PRN_STATUS_FAULT">Print status fault</string>
+    <string name="SDK_PAD_BASE_ERR">Pad base error</string>
+    <string name="SDK_PAD_ERR_NOPIN">Pad error no pin</string>
+    <string name="SDK_PAD_ERR_CANCEL">Pad error cancel</string>
+    <string name="SDK_PAD_ERR_EXCEPTION">密码键盘工作不正常</string>
+    <string name="SDK_PAD_ERR_TIMEOUT">Pad error timeout</string>
+    <string name="SDK_PAD_ERR_NEED_WAIT">Pad error need wait</string>
+    <string name="SDK_PAD_ERR_DUPLI_KEY">Pad error dupli key</string>
+    <string name="SDK_PAD_ERR_INVALID_INDEX">Pad err invalid index</string>
+    <string name="SDK_PAD_ERR_NOTSET_KEY">Pad err no test key</string>
+    <string name="SDK_UNKNOWN_ERROR">Unknown error</string>
+
+    <!-- test -->
+    <string name="security_test">POS安全状态 </string>
+    <string name="puk_test">获取密钥 </string>
+    <string name="led_test">LED灯 </string>
+    <string name="beeper_test">蜂鸣器 </string>
+    <string name="rf_test">闪付卡 </string>
+    <string name="m1_test">M1卡  </string>
+    <string name="ic_test">IC卡  </string>
+    <string name="mag_test">磁卡  </string>
+    <string name="psam1_test">PSAM1 </string>
+    <string name="psam2_test">PSAM2 </string>
+    <string name="scan_test">扫码  </string>
+    <string name="print_test">打印  </string>
+    <string name="no_test">未测试</string>
+    <string name="success_test">测试成功</string>
+    <string name="failure_test">测试失败</string>
+    <string name="start_test">开始测试</string>
+    <string name="all_test">整机测试</string>
+    <string name="led_testing">正在测试led灯...</string>
+    <string name="led_light_full">led灯 是否全亮?</string>
+    <string name="buzzing_sound">是否有蜂鸣声?</string>
+    <string name="print_successful">打印完毕,是否打印成功?</string>
+    <string name="scan_test_passiing">扫码等功能测试是否通过</string>
+    <string name="test_true">是</string>
+    <string name="test_false">否</string>
+    <string name="contact_is_installed">触点已安装好</string>
+    <string name="contact_not_installed">触点未装好</string>
+    <string name="no_pid">未下载pid</string>
+    <string name="no_puk">未下载密钥</string>
+
+    <!-- update app -->
+    <string name="net_error">网络连接错误</string>
+    <string name="read_dev_error">读取设备信息错误</string>
+    <string name="no_wifi">目前手机不是WiFi状态\n确认是否继续下载更新？</string>
+    <string name="btn_upadte">更新</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_positive">确认</string>
+    <string name="force_update_title">更新中</string>
+    <string name="force_update_msg">正在下载，请稍后</string>
+    <string name="update_info">发现新版本\n是否下载更新?</string>
+    <string name="update_title">版本更新</string>
+
+
+    <string name="toast">将条码或二维码放入框内，即可扫描</string>
+    <string name="toggle_on">轻点这里切换灯光</string>
+    <string name="back">切换为后置摄像头</string>
+    <string name="front">切换为前置摄像头</string>
+    <string name="no_test_callback">不测试点击返回</string>
+
+    <!--bluetooth-->
+    <string name="title_connect_bt">选择蓝牙</string>
+
+    <!--finger-->
+    <string name="button_tip">点击的太快了,请稍后重试！</string>
+    <string name="finger_tip01">录入数据包有错!</string>
+    <string name="finger_tip02">传感器上无手指!</string>
+    <string name="finger_tip03">录入不成功!</string>
+    <string name="finger_tiperr">通信失败!</string>
+
+    <!--external port-->
+    <string name="one_click_test">一键测试</string>
+    <string name="specific_slot">指定卡槽</string>
+    <string name="detecting">正在寻卡</string>
+    <string name="input_slot">输入卡槽(1~16)</string>
+
+    <!--sle4442-->
+    <string name="init">初始化</string>
+    <string name="verify_key">验证密码</string>
+    <string name="read">读数据</string>
+    <string name="write">写数据</string>
+    <string name="read_protect">读保护数据</string>
+    <string name="write_protect">写保护数据</string>
+    <string name="change">修改密码</string>
+    <string name="error_count">错误计数</string>
+    <string name="verify_success">验证密码成功</string>
+    <string name="verify_failed">验证密码失败</string>
+    <string name="read_first">先读再写</string>
+    <string name="input_byte">输入第一个字节写入(16进制)</string>
+
+</resources>

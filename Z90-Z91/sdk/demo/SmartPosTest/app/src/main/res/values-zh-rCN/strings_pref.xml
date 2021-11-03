@@ -1,0 +1,129 @@
+<resources>
+    <string name="pref_settings">测试</string>
+    <string name="pref_os">系统</string>
+    <string name="pref_init">初始化</string>
+    <string name="pref_trans_mode">透传模式</string>
+    <string name="pref_trans_mode_send">透传发送</string>
+    <string name="pref_trans_mode_recv">透传接收</string>
+    <string name="pref_disconnect">断开蓝牙</string>
+    <string name="pref_unlock">解锁</string>
+    <string name="pref_update_time">更新时间</string>
+    <string name="key_settings">Test</string>
+    <string name="key_os">System</string>
+    <string name="key_init">Initializing</string>
+    <string name="pref_pos_sq_status">POS安全状态</string>
+    <string name="key_pos_sq_status">Pos Security State</string>
+    <string name="key_feature">Feature</string>
+    <string name="key_card">Card</string>
+    <string name="key_magnetic">Magnetic stripe card</string>
+    <string name="key_read_all">Bank card</string>
+    <string name="key_ic">IC card</string>
+    <string name="key_rf">Contactless card</string>
+    <string name="pref_psam1">PSAM1</string>
+    <string name="key_psam1">PSAM1</string>
+    <string name="pref_psam2">PSAM2</string>
+    <string name="key_psam2">PSAM2</string>
+    <string name="key_mf_plus">Mf Plus</string>
+    <string name="pref_mf_plus">Mifare Plus</string>
+    <string name="pref_external_ic">外接IC</string>
+
+    <string name="pref_emv">EMV</string>
+    <string name="key_emv">EMV</string>
+    <string name="key_print">Print</string>
+    <string name="key_pinPad">Pinpad</string>
+    <string name="key_scan">Scan</string>
+    <string name="key_fingerprint">Fingerprint</string>
+    <string name="key_show_log">Show log</string>
+    <string name="key_beep">Open the beep</string>
+    <string name="key_led">LED</string>
+    <string name="key_pid">Terminal SN</string>
+    <string name="key_sn">Customer SN</string>
+    <string name="key_firmware_ver">Firmware Version</string>
+    <string name="key_base_sdk_ver">Base SDK Version</string>
+    <string name="key_sdk_ver">SDK Version</string>
+    <string name="key_machine_model">Machine Model</string>
+    <string name="key_getmac">get_mac</string>
+
+
+    <string name="pref_feature">主要功能</string>
+    <string name="pref_bt">蓝牙</string>
+    <string name="pref_card">读卡</string>
+    <string name="pref_magnetic">磁条卡</string>
+    <string name="pref_ic">IC卡</string>
+    <string name="pref_m1">M1卡</string>
+    <string name="pref_rf">非接卡</string>
+    <string name="pref_print">打印</string>
+    <string name="pref_pinPad">密码键盘</string>
+    <string name="pref_scan">扫码</string>
+    <string name="pref_fingerprint">指纹</string>
+    <string name="pref_whole_engine_test">整机测试</string>
+    <string name="pref_update_app">更新应用</string>
+    <string name="pref_update_firmware">固件更新</string>
+
+    <string name="pref_read_all">银行卡</string>
+    <string name="summary_read_all">根据卡的类型不同，自动寻卡读取</string>
+    <string name="title_read_all">选择卡类型</string>
+
+    <!--os info-->
+    <string name="pref_show_log">是否显示调试信息</string>
+    <string name="pref_beep">蜂鸣器</string>
+    <string name="pref_led">LED灯</string>
+    <string name="pref_pid">终端序列号</string>
+    <string name="pref_sn">客户序列号</string>
+    <string name="pref_firmware_ver">固件版本号</string>
+    <string name="pref_sdk_ver">SDK版本号</string>
+    <string name="pref_base_sdk_ver">Base SDK版本号</string>
+    <string name="pref_machine_model">机器型号</string>
+    <!--switch summary-->
+    <string name="summary_on">开</string>
+    <string name="summary_off">关</string>
+
+    <!--pin pad fragment-->
+
+
+    <string name="pref_paper_out">走纸</string>
+    <string name="key_paper_out">Paper out</string>
+    <string name="pref_print_text">打印文字</string>
+    <string name="key_print_text">Print text</string>
+    <string name="pref_print_matrix_text">点阵打印文字</string>
+    <string name="key_print_matrix_text">Print dot matrix text</string>
+    <string name="pref_print_pic">打印图片</string>
+    <string name="key_print_pic">Print picture</string>
+    <string name="pref_print_qr">打印二维码</string>
+    <string name="key_print_qr">Print QR code</string>
+    <string name="pref_print_bar">打印条码</string>
+    <string name="key_print_bar">Print bar code</string>
+    <string name="pref_print_hybrid">混合打印</string>
+    <string name="key_print_hybrid">Hybrid printing</string>
+    <string name="pref_print_loop">打印循环</string>
+    <string name="key_print_loop">Print loop</string>
+    <string name="pref_print_label">打印标签</string>
+    <string name="key_print_label">Print label</string>
+    <string name="pref_print_label_loop">打印标签循环</string>
+    <string name="key_print_label_loop">Print label loop</string>
+    <string name="pref_paper_print">普通打印</string>
+    <string name="key_paper_print">Common print paper</string>
+    <string name="pref_label_print">标签打印</string>
+    <string name="key_label_print">Label sticker</string>
+
+    <string name="pref_setworkKey">设置工作密钥</string>
+    <string name="key_setworkKey">set_work_key</string>
+
+    <!--    <string name="pref_setworkKey1">设置加密工作密钥</string>
+        <string name="key_setworkKey1">set_work_key</string>-->
+
+    <string name="pref_setmaster_key">设置主密钥</string>
+    <string name="key_setmaster_key">set_master_key</string>
+
+    <!--  <string name="pref_setmaster_key1">设置加密主密钥</string>
+      <string name="key_setmasterKey1">set_master_key1</string>-->
+
+    <string name="pref_getpinblock">输入联机PIN</string>
+    <string name="key_getpinblock">get_pin_block</string>
+
+    <string name="pref_getmac">mac计算</string>
+
+
+    <string name="pref_track_encrypt">磁道数据加密</string>
+    <string name="key_track_encrypt">磁道数据加密</string>
+</resources>

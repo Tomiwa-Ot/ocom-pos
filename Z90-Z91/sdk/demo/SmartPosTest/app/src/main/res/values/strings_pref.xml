@@ -1,0 +1,178 @@
+<resources>
+    <string name="pref_settings">Test</string>
+    <string name="key_settings">Test</string>
+
+    <string name="pref_os">System</string>
+    <string name="key_os">System</string>
+
+    <string name="pref_init">Initializing</string>
+    <string name="key_init">Initializing</string>
+
+    <string name="key_trans_mode">Serial port mode</string>
+    <string name="pref_trans_mode">Serial port mode</string>
+
+    <string name="key_trans_mode_send">Serial port send</string>
+    <string name="pref_trans_mode_send">Serial port send</string>
+
+    <string name="key_trans_mode_recv">Serial port recv</string>
+    <string name="pref_trans_mode_recv">Serial port recv</string>
+
+    <string name="pref_disconnect">Disconnect</string>
+    <string name="key_disconnect">Disconnect</string>
+
+    <string name="pref_unlock">Unlock</string>
+    <string name="key_unlock">Unlock</string>
+
+    <string name="pref_update_time">Update time</string>
+    <string name="key_update_time">Update time</string>
+
+    <string name="pref_pos_sq_status">Pos Security Status</string>
+    <string name="key_pos_sq_status">Pos Security Status</string>
+
+    <string name="pref_feature">Feature</string>
+    <string name="key_feature">Feature</string>
+
+    <string name="key_bt">Bluetooth</string>
+    <string name="pref_bt">Bluetooth</string>
+
+    <string name="pref_card">Card</string>
+    <string name="key_card">Card</string>
+
+    <string name="pref_magnetic">Magnetic stripe card</string>
+    <string name="key_magnetic">Magnetic stripe card</string>
+
+    <string name="key_read_all">Bank card</string>
+    <string name="pref_read_all">Bank card</string>
+    <string name="summary_read_all">Automatically read based on card type</string>
+    <string name="title_read_all">Choose card types</string>
+
+    <string name="pref_ic">IC card</string>
+    <string name="key_ic">IC card</string>
+
+    <string name="pref_rf">Contactless card</string>
+    <string name="key_rf">Contactless card</string>
+
+    <string name="pref_felica">FeliCa</string>
+    <string name="key_felica">FeliCa</string>
+
+    <string name="pref_m1">M1 card</string>
+    <string name="key_m1">M1 card</string>
+
+    <string name="pref_psam1">PSAM1</string>
+    <string name="key_psam1">PSAM1</string>
+
+    <string name="pref_psam2">PSAM2</string>
+    <string name="key_psam2">PSAM2</string>
+
+    <string name="key_mf_plus">Mf Plus</string>
+    <string name="pref_mf_plus">Mifare Plus</string>
+
+    <string name="key_external_ic">External IC</string>
+    <string name="pref_external_ic">External IC</string>
+
+    <string name="key_sle4442">SLE4442</string>
+    <string name="pref_sle4442">SLE4442</string>
+
+    <string name="key_sle4428">SLE4428</string>
+    <string name="pref_sle4428">SLE4428</string>
+
+    <string name="key_ntag">NTAG</string>
+    <string name="pref_ntag">NTAG</string>
+
+    <string name="pref_emv">EMV</string>
+    <string name="key_emv">EMV</string>
+
+    <string name="pref_print">Print</string>
+    <string name="key_print">Print</string>
+
+    <string name="pref_pinPad">Pinpad</string>
+    <string name="key_pinPad">Pinpad</string>
+
+    <string name="pref_scan">Scan</string>
+    <string name="key_scan">Scan</string>
+
+    <string name="pref_fingerprint">Fingerprint</string>
+    <string name="key_fingerprint">Fingerprint</string>
+
+    <string name="pref_whole_engine_test">WholeTest</string>
+    <string name="key_whole_engine_test">WholeTest</string>
+
+    <string name="pref_update_app">UpdateAPP</string>
+    <string name="key_update_app">UpdateAPP</string>
+
+    <string name="pref_update_firmware">UpdateFirmware</string>
+    <string name="key_update_firmware">UpdateFirmware</string>
+    <string name="pref_power_on">PowerOn</string>
+    <string name="key_power_on">PowerOn</string>
+    <string name="pref_power_off">PowerOff</string>
+    <string name="key_power_off">PowerOff</string>
+    <!--os info-->
+    <string name="pref_show_log">Show log</string>
+    <string name="key_show_log">Show log</string>
+    <string name="pref_beep">Beeper</string>
+    <string name="key_beep">Open the beep</string>
+    <string name="pref_led">LED</string>
+    <string name="key_led">LED</string>
+    <string name="pref_pid">Terminal SN</string>
+    <string name="key_pid">Terminal SN</string>
+    <string name="pref_sn">Customer SN</string>
+    <string name="key_sn">Customer SN</string>
+    <string name="key_imei">IMEI</string>
+    <string name="pref_imei">IMEI</string>
+    <string name="pref_firmware_ver">Firmware Version</string>
+    <string name="key_firmware_ver">Firmware Version</string>
+    <string name="pref_base_sdk_ver">Base SDK Version</string>
+    <string name="key_base_sdk_ver">Base SDK Version</string>
+    <string name="pref_sdk_ver">SDK Version</string>
+    <string name="key_sdk_ver">SDK Version</string>
+    <string name="pref_machine_model">Machine Model</string>
+    <string name="key_machine_model">Machine Model</string>
+    <!--preference print-->
+    <string name="pref_paper_out">Paper out</string>
+    <string name="key_paper_out">Paper out</string>
+    <string name="pref_print_text">Print text</string>
+    <string name="key_print_text">Print text</string>
+    <string name="pref_print_matrix_text">Print dot matrix text</string>
+    <string name="key_print_matrix_text">Print dot matrix text</string>
+    <string name="pref_print_pic">Print picture</string>
+    <string name="key_print_pic">Print picture</string>
+    <string name="pref_print_qr">Print QR code</string>
+    <string name="key_print_qr">Print QR code</string>
+    <string name="pref_print_bar">Print bar code</string>
+    <string name="key_print_bar">Print bar code</string>
+    <string name="pref_print_hybrid">Hybrid printing</string>
+    <string name="key_print_hybrid">Hybrid printing</string>
+    <string name="pref_print_loop">Print loop</string>
+    <string name="key_print_loop">Print loop</string>
+    <string name="pref_print_label">Print label</string>
+    <string name="key_print_label">Print label</string>
+    <string name="pref_print_label_loop">Print label loop</string>
+    <string name="key_print_label_loop">Print label loop</string>
+    <string name="pref_paper_print">Common print paper</string>
+    <string name="key_paper_print">Common print paper</string>
+    <string name="pref_label_print">Label sticker</string>
+    <string name="key_label_print">Label sticker</string>
+
+    <!--switch summary-->
+    <string name="summary_on">on</string>
+    <string name="summary_off">off</string>
+
+    <!--pin pad fragment-->
+    <string name="pref_setworkKey">Update work key</string>
+    <string name="key_setworkKey">update_work_key</string>
+
+
+    <string name="pref_setmaster_key">Set master key</string>
+    <string name="key_setmaster_key">Set_master_key</string>
+
+
+    <string name="pref_getpinblock">Input PIN</string>
+    <string name="key_getpinblock">get_pin_block</string>
+
+    <string name="pref_getmac">Calc mac</string>
+    <string name="key_getmac">get_mac</string>
+
+    <string name="pref_track_encrypt">Track data encrypt</string>
+    <string name="key_track_encrypt">Track_data_encrypt</string>
+
+</resources>

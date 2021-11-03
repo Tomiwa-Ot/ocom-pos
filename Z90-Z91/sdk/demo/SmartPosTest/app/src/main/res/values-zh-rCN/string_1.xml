@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="input_work_key_meg">输入工作密钥信息</string>
+    <string name="input_work_key_index">输入工作密钥索引(0-F):</string>
+    <string name="input_work_key_pin">输入Pin密钥20为:</string>
+    <string name="input_work_key_mac">输入Mac密钥20位:</string>
+    <string name="input_work_key_tdk">输入TDK密钥21位:</string>
+
+    <string name="input_master_key_meg">输入主密钥信息</string>
+    <string name="input_master_key_index">输入主密钥索引(0-F):</string>
+    <string name="input_master_key_front">输入主密钥前16位:</string>
+    <string name="input_master_key_back">输入主密钥后16位:</string>
+    <string name="input_master_key_decrypt_index">输入解密主密钥索引(0-F):</string>
+
+    <string name="input_mac_key_meg">计算mac加密</string>
+    <string name="input_mac_key_index">输入密钥索引(0-F):</string>
+    <string name="input_mac_key_datainfo">待计算数据20为:</string>
+    <string name="input_mac_key_algorithm">加密算法:</string>
+
+    <string name="set_ok">确认</string>
+    <string name="set_cancel">取消</string>
+
+    <string name="no_mag_card_data">无磁卡数据信息,请刷卡后再试!</string>
+    <string name="show_second_track">显示的第二磁道明文数据:</string>
+    <string name="show_second_track_cipher">显示的第二磁道密文数据:</string>
+    <string name="show_three_track">显示的第三磁道密文数据:</string>
+    <string name="update_work_key_success">更新工作密钥成功</string>
+    <string name="update_work_key_failure">更新工作密钥失败</string>
+    <string name="update_master_key_success">更新主密钥成功</string>
+    <string name="update_master_key_failure">更新主密钥失败</string>
+    <string name="calc_mac_encrypt_success">计算mac加密成功</string>
+    <string name="calc_mac_encrypt_failure">计算mac加密失败</string>
+</resources>

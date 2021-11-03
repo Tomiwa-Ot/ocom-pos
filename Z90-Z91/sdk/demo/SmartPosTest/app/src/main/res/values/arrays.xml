@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="led_lights">
+        <item>RED</item>
+        <item>GREEN</item>
+        <item>YELLOW</item>
+        <item>BLUE</item>
+        <item>ALL</item>
+        <item>ALL_OFF</item>
+    </string-array>
+    <string-array name="led_lights_value">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Blue</item>
+        <item>All</item>
+        <item>All OFF</item>
+    </string-array>
+    <string-array name="update_f">
+        <item>Network</item>
+        <item>Local</item>
+    </string-array>
+    <string-array name="update_f_value">
+        <item>Network</item>
+        <item>Local</item>
+    </string-array>
+    <string-array name="print_font_size">
+        <item>DEFAULT_SIZE</item>
+        <item>DOUBLE_WIDTH</item>
+        <item>DOUBLE_HEIGHT</item>
+        <item>DOUBLE_WIDTH_HEIGHT</item>
+    </string-array>
+
+    <string-array name="print_align">
+        <item>ALIGN_LEFT</item>
+        <item>ALIGN_CENTER</item>
+        <item>ALIGN_RIGHT</item>
+    </string-array>
+
+    <string-array name="print_speed">
+        <item>LOW_SPEED</item>
+        <item>MEDIUM_SPEED</item>
+        <item>HIGH_SPEED</item>
+    </string-array>
+
+    <string-array name="print_font">
+        <item>DEFAULT</item>
+        <item>DEFAULT_BOLD</item>
+        <item>MONOSPACE</item>
+        <item>SANS_SERIF</item>
+        <item>SERIF</item>
+        <item>CUSTOM</item>
+    </string-array>
+    <string-array name="print_font_style">
+        <item>NORMAL</item>
+        <item>BOLD</item>
+        <item>ITALIC</item>
+        <item>BOLD_ITALIC</item>
+    </string-array>
+    <string-array name="print_align_layout">
+        <item>ALIGN_NORMAL</item>
+        <item>ALIGN_OPPOSITE</item>
+        <item>ALIGN_CENTER</item>
+        <item>ALIGN_LEFT</item>
+        <item>ALIGN_RIGHT</item>
+    </string-array>
+
+    <string-array name="pinpad_mac_algorithm">
+        <item> ECB</item>
+        <item>ANSI_X_9_9</item>
+        <item>ANSI_X_9_19</item>
+        <item>XOR</item>
+    </string-array>
+
+    <string-array name="print_fonts_choose">
+    <item>Default Typeface</item>
+    <item>Rounded Fonts</item>
+</string-array>
+    <string-array name="print_fonts_choose_value">
+        <item>Default</item>
+        <item>Young circle</item>
+    </string-array>
+
+
+    <string-array name="print_loop">
+        <item>Start</item>
+        <item>Stop</item>
+    </string-array>
+</resources>

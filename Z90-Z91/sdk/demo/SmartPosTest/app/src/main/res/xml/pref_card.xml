@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:key="@string/key_read_all"
+        android:title="@string/pref_read_all"/>
+    <Preference
+        android:key="@string/key_magnetic"
+        android:title="@string/pref_magnetic"/>
+    <Preference
+        android:key="@string/key_ic"
+        android:title="@string/pref_ic"/>
+    <Preference
+        android:key="@string/key_rf"
+        android:title="@string/pref_rf"/>
+    <Preference
+        android:key="@string/key_felica"
+        android:title="@string/pref_felica"/>
+    <Preference
+        android:key="@string/key_m1"
+        android:title="@string/pref_m1"/>
+    <Preference
+        android:key="@string/key_mf_plus"
+        android:title="@string/pref_mf_plus"/>
+
+    <Preference
+        android:key="@string/key_ntag"
+        android:title="@string/pref_ntag"/>
+    <Preference
+        android:key="@string/key_psam1"
+        android:title="@string/pref_psam1"/>
+    <Preference
+        android:key="@string/key_psam2"
+        android:title="@string/pref_psam2"/>
+    <Preference
+        android:key="@string/key_sle4442"
+        android:title="@string/pref_sle4442"/>
+    <Preference
+        android:key="@string/key_sle4428"
+        android:title="@string/pref_sle4428"/>
+    <Preference
+        android:key="@string/key_external_ic"
+        android:title="@string/pref_external_ic"/>
+    <Preference
+        android:key="@string/key_emv"
+        android:title="@string/pref_emv"/>
+</PreferenceScreen>

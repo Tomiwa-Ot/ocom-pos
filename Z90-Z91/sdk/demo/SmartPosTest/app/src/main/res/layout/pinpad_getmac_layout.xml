@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:background="@color/colorWhite"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:orientation="horizontal"
+            tools:ignore="Suspicious0dp">
+
+            <!-- <TextView
+                 android:layout_width="match_parent"
+                 android:layout_height="40dp"
+                 android:gravity="center_vertical"
+                 android:text="@string/input_mac_key_meg"
+                 android:textSize="16dp"
+                 android:textColor="@color/colorAccent" />
+
+                         <ImageView
+                             android:layout_width="match_parent"
+                             android:layout_height="1dp"
+                             android:background="@color/black" />-->
+        </LinearLayout>
+ <!--       <TextView
+            android:id="@+id/pin_text"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center_vertical"
+            android:textSize="16dp"
+            android:text="@string/input_mac_key_datainfo"
+            android:textColor="@color/black" />-->
+
+        <EditText
+            android:id="@+id/mac_key_datainfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:text="0200302004C030C09811000000000000000001000008021000123251871081065907699B0E751ADD38E0680104995187108106590784D15615619999999930019990000000343434130310DD068423601059800005219298D060D745153979CC003132333435363738313233343536373839303132333435313536117A7E3A0DFD41792610000000000000001422000335000601" />
+
+
+<!--        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_cancel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textSize="16dp"
+                android:text="@string/set_cancel"
+                android:textColor="@color/colorAccent"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/btn_checkmsg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textSize="16dp"
+                android:textColor="@color/colorAccent"
+                android:text="@string/set_ok"
+                android:textAllCaps="false" />
+        </LinearLayout>-->
+
+    </LinearLayout>
+</LinearLayout>

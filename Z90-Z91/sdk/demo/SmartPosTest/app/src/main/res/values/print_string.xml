@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pos_sales_slip">POS SALES SLIP</string>
+    <string name="merchant_name">MERCHANGT NAME:</string>
+    <string name="merchant_no">MERCHANT NO:</string>
+    <string name="terminal_name">TERMINAL NAME:</string>]
+    <string name="operator_no">OPERATOR NO:</string>
+    <string name="card_no">CARD NO:</string>
+    <string name="acq_institute">ACQ INSTITUTE:</string>
+    <string name="iss">ISS:</string>
+    <string name="trans_type">TRANS TYPE:</string>
+    <string name="sale">SALE:</string>
+    <string name="exe_date">EXE DATE:</string>
+    <string name="batch_no">BATCH NO:</string>
+    <string name="voucher_no">VOUCHER NO:</string>
+    <string name="date">DATE:</string>
+    <string name="time">TIME:</string>
+    <string name="amount">AMOUNT:</string>
+    <string name="reference">REFERENCE:</string>
+    <string name="cardholder_signature">CARDHOLDER SIGNATURE:</string>
+    <string name="print_remark">I ACRNOWLEDGE SATISFACTORY RECEIPT OF RELATIVE GOODS/SERUICE </string>
+    <string name="cardholder_copy">CARDHOLDER COPY:</string>
+
+
+    <string name="printer_out_of_paper">printer out of paper</string>
+    <string name="show_qrcode_status1">Display two dimensional code (width: 200, length: 200, left)</string>
+    <string name="show_qrcode_status2">Display two dimensional code (width: 200, length: 200, right)</string>
+    <string name="show_qrcode_status3">Display two dimensional code (width: 200, length: 200, center)</string>
+
+    <string name="show_barcode_status1">The bar code that displays EAN_13 encoding format (width: 360, length: 100, left)</string>
+    <string name="show_barcode_status2">The bar code that displays EAN_13 encoding format (width: 300, length: 80, center)</string>
+    <string name="show_barcode_status3">The bar code that displays EAN_13 encoding format (width: 300, length: 100, right)</string>
+</resources>

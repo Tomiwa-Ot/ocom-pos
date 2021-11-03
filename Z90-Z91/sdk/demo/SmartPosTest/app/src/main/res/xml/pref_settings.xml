@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:icon="@mipmap/set"
+        android:key="@string/key_os"
+        android:title="@string/pref_os"/>
+    <Preference
+        android:icon="@mipmap/card"
+        android:key="@string/key_card"
+        android:title="@string/pref_card"/>
+    <Preference
+        android:icon="@mipmap/beeper"
+        android:key="@string/key_beep"
+        android:title="@string/pref_beep"/>
+    <ListPreference
+        android:entries="@array/led_lights"
+        android:entryValues="@array/led_lights_value"
+        android:icon="@mipmap/led"
+        android:key="@string/key_led"
+        android:title="@string/pref_led"/>
+    <Preference
+        android:icon="@mipmap/print"
+        android:key="@string/key_print"
+        android:title="@string/pref_print"/>
+    <Preference
+        android:icon="@mipmap/icon_encryption"
+        android:key="@string/key_pinPad"
+        android:title="@string/pref_pinPad"/>
+    <Preference
+        android:icon="@mipmap/scanning"
+        android:key="@string/key_scan"
+        android:title="@string/pref_scan"/>
+    <Preference
+        android:icon="@mipmap/fingerprint"
+        android:key="@string/key_fingerprint"
+        android:title="@string/pref_fingerprint"/>
+
+    <Preference
+        android:icon="@mipmap/test"
+        android:key="@string/key_whole_engine_test"
+        android:title="@string/pref_whole_engine_test"/>
+    <Preference
+        android:icon="@mipmap/update"
+        android:key="@string/key_update_app"
+        android:title="@string/pref_update_app"/>
+    <ListPreference
+        android:entries="@array/update_f"
+        android:entryValues="@array/update_f_value"
+        android:icon="@mipmap/update_2"
+        android:key="@string/key_update_firmware"
+        android:title="@string/pref_update_firmware"/>
+
+    <Preference
+        android:icon="@mipmap/power_on"
+        android:key="@string/key_power_on"
+        android:title="@string/pref_power_on"/>
+
+    <Preference
+        android:icon="@mipmap/power_off"
+        android:key="@string/key_power_off"
+        android:title="@string/pref_power_off"/>
+
+    <Preference
+        android:icon="@mipmap/initial"
+        android:key="@string/key_init"
+        android:title="@string/pref_init"/>
+</PreferenceScreen>

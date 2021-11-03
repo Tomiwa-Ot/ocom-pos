@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="input_work_key_meg">input work key message</string>
+    <string name="input_work_key_index">input work key index(0-F):</string>
+    <string name="input_work_key_pin">input PIN key 20 byte(:</string>
+    <string name="input_work_key_mac">input MAC key 20 byte:</string>
+    <string name="input_work_key_tdk">input TDK key 21 byte:</string>
+
+    <string name="input_master_key_meg">input master key message</string>
+    <string name="input_master_key_index">input master key index(0-F):</string>
+    <string name="input_master_key_front">input master key before 16 byte:</string>
+    <string name="input_master_key_back">input master key after 16 byte:</string>
+    <string name="input_master_key_decrypt_index">input master decryption key index (0-F):</string>
+
+    <string name="input_mac_key_meg">arith mac encrypt</string>
+    <string name="input_mac_key_index">input mac key index (0-F):</string>
+    <string name="input_mac_key_datainfo">input mac key after 20 byte:</string>
+    <string name="input_mac_key_algorithm">arith encrypt:</string>
+
+    <string name="set_ok">ok</string>
+    <string name="set_cancel">cancel</string>
+
+    <string name="no_mag_card_data">No magnetic card data information, please brush your card and try again</string>
+    <string name="show_second_track">Display second track text data:</string>
+    <string name="show_second_track_cipher">Display second track ciphertext data:</string>
+    <string name="show_three_track">Display Three track ciphertext data:</string>
+    <string name="update_work_key_success">Update the work key success</string>
+    <string name="update_work_key_failure">Update work key failure</string>
+    <string name="update_master_key_success">Update the master key success</string>
+    <string name="update_master_key_failure">Update master key failure</string>
+    <string name="calc_mac_encrypt_success">Calculating the success of MAC encryption</string>
+    <string name="calc_mac_encrypt_failure">Computing MAC encryption failure</string>
+</resources>

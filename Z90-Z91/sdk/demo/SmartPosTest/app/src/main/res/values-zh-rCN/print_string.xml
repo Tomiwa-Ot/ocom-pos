@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pos_sales_slip">银联POS签购单</string>
+    <string name="merchant_name">商户名称:</string>
+    <string name="merchant_no">商户编号:</string>
+    <string name="terminal_name">终端机编号:</string>]
+    <string name="operator_no">操作员号:</string>
+    <string name="card_no">卡号:</string>
+    <string name="acq_institute">收单机构:</string>
+    <string name="iss">发卡机构:</string>
+    <string name="trans_type">交易类型:</string>
+    <string name="sale">消费:</string>
+    <string name="exe_date">有效期:</string>
+    <string name="batch_no">批次号:</string>
+    <string name="voucher_no">凭证号:</string>
+    <string name="date">交易日期:</string>
+    <string name="time">交易时间:</string>
+    <string name="amount">金额:</string>
+    <string name="reference">备注:</string>
+    <string name="cardholder_signature">持卡人签名栏:</string>
+    <string name="print_remark">本人确认已上交易,同意将其计入本卡账户 </string>
+    <string name="cardholder_copy">持卡人联:</string>
+
+    <string name="printer_out_of_paper">打印机缺纸</string>
+    <string name="show_qrcode_status1">显示的二维码(宽度:200,长度:200,居左)</string>
+    <string name="show_qrcode_status2">显示的二维码(宽度:200,长度:200,居右)</string>
+    <string name="show_qrcode_status3">显示的二维码(宽度:200,长度:200,居中)</string>
+
+    <string name="show_barcode_status1">显示EAN_13编码格式的条码(宽度:360,长度:100,居左)</string>
+    <string name="show_barcode_status2">显示EAN_13编码格式的条码(宽度:300,长度:80,居中)</string>
+    <string name="show_barcode_status3">显示EAN_13编码格式的条码(宽度:300,长度:100,居右)</string>
+</resources>

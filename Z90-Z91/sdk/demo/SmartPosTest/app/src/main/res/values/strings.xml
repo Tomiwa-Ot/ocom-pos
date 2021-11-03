@@ -1,0 +1,203 @@
+<resources>
+    <string name="app_name">Test</string>
+    <!--menu-->
+    <string name="menu_scan">Activate barcode</string>
+    <string name="input_pwd">Please enter password</string>
+    <string name="pwd_str">111111</string>
+    <string name="pwd_wrong">Wrong password</string>
+    <string name="menu_debug">debug</string>
+    <string name="menu_home">home</string>
+    <string name="menu_amount">amount</string>
+    <string name="menu_log">Clear log</string>
+
+    <string name="btn_confirm">OK</string>
+
+    <!--dialog-->
+    <string name="title_error">Error</string>
+    <string name="title_card">Card Info</string>
+    <string name="title_apdu">APDU</string>
+
+    <!--progress dialog-->
+    <string name="title_waiting">Waiting</string>
+    <string name="msg_reading">Is reading card</string>
+    <string name="msg_psam1_reading">Is reading psam1 card</string>
+    <string name="msg_psam2_reading">Is reading psam2 card</string>
+    <string name="msg_init">Initializing</string>
+    <string name="title_bank_card">Bank card</string>
+    <string name="title_mag_card">Magnetic card</string>
+    <string name="title_ic_card">IC card</string>
+    <string name="title_rf_card">QuickPass card</string>
+    <string name="msg_bank_card">Please use your bank card</string>
+    <string name="msg_mag_card">Please swipe card</string>
+    <string name="msg_ic_card">Please insert IC card</string>
+    <string name="msg_rf_card">Please swing card</string>
+    <string name="msg_m1_card">Please swing m1 card</string>
+    <string name="msg_mf_puls_card">Please swing mf puls card</string>
+    <!--sdk sdkult-->
+    <string name="SDK_OK">OK</string>
+    <string name="SDK_ERROR">Error</string>
+    <string name="SDK_PARAMERR">Params error</string>
+    <string name="SDK_TIMEOUT">Timeout</string>
+    <string name="SDK_RECV_DATA_ERROR">Recv data error</string>
+    <string name="SDK_ICC_BASE_ERR">Icc base error</string>
+    <string name="SDK_ICC_ERROR">Icc error</string>
+    <string name="SDK_ICC_PARAM_ERROR">Icc param error</string>
+    <string name="SDK_ICC_NO_CARD">Icc no card</string>
+    <string name="SDK_ICC_NO_RESP">Icc no resp</string>
+    <string name="SDK_ICC_COMM_ERR">Icc communicate error</string>
+    <string name="SDK_ICC_RESP_ERR">Icc resp error</string>
+    <string name="SDK_ICC_NO_POWER_ON">Icc no power on</string>
+    <string name="SDK_RF_BASE_ERR">Rf base error</string>
+    <string name="SDK_RF_ERROR">Rf error</string>
+    <string name="SDK_RF_PARAM_ERROR">Rf param error</string>
+    <string name="SDK_RF_ERR_NOCARD">Rf no card</string>
+    <string name="SDK_RF_ERR_CARD_CONFLICT">Rf card conflict</string>
+    <string name="SDK_RF_TIME_OUT">Rf time out</string>
+    <string name="SDK_RF_PROTOCOL_ERROR">Rf error protocol</string>
+    <string name="SDK_RF_TRANSMISSION_ERROR">Rf transmission error</string>
+    <string name="SDK_MAG_BASE_ERR">Mag base error</string>
+    <string name="SDK_MAG_ERROR">Sdk mag error</string>
+    <string name="SDK_MAG_PARAM_ERROR">Mag param error</string>
+    <string name="SDK_MAG_NO_BRUSH">Mag no brush</string>
+    <string name="SDK_PRN_BASE_ERR">Print base error</string>
+    <string name="SDK_PRN_ERROR">Print error</string>
+    <string name="SDK_PRN_PARAM_ERROR">Print params error</string>
+    <string name="SDK_PRN_STATUS_PAPEROUT">Print status paper out</string>
+    <string name="SDK_PRN_STATUS_TOOHEAT">Print status too heat</string>
+    <string name="SDK_PRN_STATUS_FAULT">Print status fault</string>
+    <string name="SDK_PAD_BASE_ERR">Pad base error</string>
+    <string name="SDK_PAD_ERR_NOPIN">Pad error no pin</string>
+    <string name="SDK_PAD_ERR_CANCEL">Pad error cancel</string>
+    <string name="SDK_PAD_ERR_EXCEPTION">pad work exception</string>
+    <string name="SDK_PAD_ERR_TIMEOUT">Pad error timeout</string>
+    <string name="SDK_PAD_ERR_NEED_WAIT">Pad error need wait</string>
+    <string name="SDK_PAD_ERR_DUPLI_KEY">Pad error dupli key</string>
+    <string name="SDK_PAD_ERR_INVALID_INDEX">Pad err invalid index</string>
+    <string name="SDK_PAD_ERR_NOTSET_KEY">Pad err no test key</string>
+    <string name="SDK_UNKNOWN_ERROR">Unknown error</string>
+
+    <!--print-->
+    <string name="specified_text">Specified text</string>
+    <string name="print_text">Text</string>
+    <string name="print_text_hint">Please enter the text to be printed</string>
+    <string name="print_text_size">Text size(px)</string>
+    <string name="print_alignment">Alignment</string>
+    <string name="print_speed">Print speed</string>
+    <string name="print_font">Font</string>
+    <string name="print_font_style">Font style</string>
+    <string name="print_line_spacing">Line spacing</string>
+    <string name="print_col_spacing">Col spacing</string>
+    <string name="print_m">Matrix</string>
+    <string name="print_underline">Underline</string>
+    <string name="print_scaleX">ScaleX(0~1)</string>
+    <string name="print_qr">QR</string>
+    <string name="print_qr_hint">Please enter the code text to be printed</string>
+    <string name="print_width">Width</string>
+    <string name="print_height">Height</string>
+    <string name="print_bar_code">Bar code</string>
+    <string name="print_show_under">Show data under the bar code</string>
+    <string name="print_pic">Pic</string>
+    <string name="print_def_pic">Use the def pic</string>
+    <string name="print_choose_pic">Choose from album</string>
+
+    <string name="btn_print_text">Print text</string>
+    <string name="btn_print_m">Print matrix</string>
+    <string name="btn_print_qr">Print qr</string>
+    <string name="btn_print_bar">Print bar code</string>
+    <string name="btn_print_pic">Print pic</string>
+    <string name="btn_print_def">Print def</string>
+    <string name="btn_print_paper_out">Paper out</string>
+    <string name="btn_print_above_all">Print below all</string>
+    <string name="print_init_failed">Printer init failed</string>
+
+    <string name="init_success">Initializing success</string>
+    <string name="init_failed">Initializing failed</string>
+
+    <!--qr test-->
+    <string name="qr_test">QR Test</string>
+    <string name="btn_send_qrcode">Send Result</string>
+    <string name="btn_scan_again">Scan Again</string>
+    <string name="btn_create_qrcode">Generate QRCode</string>
+    <string name="btn_scan_qrcode">Scan QRCode</string>
+    <string name="btn_long_press_to_identify_qrcode">Long press to identify QRCode</string>
+
+
+    <!-- test -->
+    <string name="led_test">Led   </string>
+    <string name="security_test">POS security Status   </string>
+    <string name="puk_test">Get puk and pid</string>
+    <string name="beeper_test">Beeper </string>
+    <string name="rf_test">QuickPassCard</string>
+    <string name="m1_test">M1Card </string>
+    <string name="ic_test">ICCard </string>
+    <string name="mag_test">MAGCard </string>
+    <string name="psam1_test">Psam1  </string>
+    <string name="psam2_test">Psam2  </string>
+    <string name="scan_test">Scan   </string>
+    <string name="print_test">Print  </string>
+    <string name="no_test">Untested</string>
+    <string name="success_test">Success Test</string>
+    <string name="failure_test">Fail Test</string>
+    <string name="start_test">Start Test</string>
+    <string name="all_test">All Test</string>
+    <string name="led_testing">The LED lamp is being tested ...</string>
+    <string name="led_light_full">Is the LED light full?</string>
+    <string name="buzzing_sound">Is there a buzzing sound?</string>
+    <string name="print_successful">Finished printing, is it successful?</string>
+    <string name="scan_test_passiing">Whether scavenging and other functional tests are passed</string>
+    <string name="test_true">true</string>
+    <string name="test_false">false</string>
+    <string name="contact_is_installed">The contact has been installed</string>
+    <string name="contact_not_installed">The contact is not installed</string>
+    <string name="no_pid">No pid</string>
+    <string name="no_puk">No public key</string>
+    <!-- update app -->
+    <string name="net_error">Network error</string>
+    <string name="read_dev_error">Read device eror</string>
+    <string name="no_wifi">The current mobile phone is not WiFi state\nDecide if we continue to download the update?</string>
+    <string name="btn_upadte">Update</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_positive">Confirm</string>
+    <string name="force_update_title">Updating</string>
+    <string name="force_update_msg">Downloading, please wait!</string>
+    <string name="update_info">Find a new version.\nWhether to download the update</string>
+    <string name="update_title">Version update</string>
+
+
+    <string name="toast">The bar code or the two-dimensional code is placed in the frame and can be scanned</string>
+    <string name="toggle_on">Click here to switch lights</string>
+    <string name="back">Switch to rear camera</string>
+    <string name="front">Switch to a front camera</string>
+
+    <string name="no_test_callback">Do not test click return</string>
+
+    <!--bluetooth-->
+    <string name="title_connect_bt">Choose bluetooth</string>
+
+    <!--finger-->
+    <string name="button_tip">Click too quickly,pls try again later！</string>
+    <string name="finger_tip01">data  error!</string>
+    <string name="finger_tip02">enrollment timout!</string>
+    <string name="finger_tip03">enrollment fail!</string>
+    <string name="finger_tiperr">communication fail!</string>
+    <string name="one_click_test">One click test</string>
+    <string name="specific_slot">Specific slot</string>
+    <string name="detecting">detecting</string>
+    <string name="input_slot">Input slot(1~16)</string>
+
+    <!--sle4442-->
+    <string name="init">init</string>
+    <string name="verify_key">verify</string>
+    <string name="read">read</string>
+    <string name="write">write</string>
+    <string name="read_protect">read protect</string>
+    <string name="write_protect">write protect</string>
+    <string name="change">change key</string>
+    <string name="error_count">error count</string>
+    <string name="verify_success">verify successfully</string>
+    <string name="verify_failed">verify failed</string>
+    <string name="read_first">Read first</string>
+    <string name="input_byte">Input first byte to write(16进制)</string>
+
+
+</resources>
