@@ -5,7 +5,7 @@
 
 <b>RAM:</b> 1GB for Q2 /2GB for Q1
 
-Flash: 8GB Flash for Q2 / 16GB Flash for Q1
+<b>Flash:</b> 8GB Flash for Q2 / 16GB Flash for Q1
 
 Display: 5.5" HD Screen, Highest Resolution 1280 x 720
 
