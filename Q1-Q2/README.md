@@ -7,7 +7,7 @@
 
 <b>Flash:</b> 8GB Flash for Q2 / 16GB Flash for Q1
 
-Display: 5.5" HD Screen, Highest Resolution 1280 x 720
+<b>Display:</b> 5.5" HD Screen, Highest Resolution 1280 x 720
 
 Touch: Capacitive Multi point Touch
 
