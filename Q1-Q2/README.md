@@ -25,7 +25,7 @@ WIFI: WIFI 802.11 b.g.n
 
 Speaker: 1W Single Channel
 
-Microphone: MIC Input
+<b>Microphone:</b> MIC Input
 
 Button: Power button, Scan Button
 
