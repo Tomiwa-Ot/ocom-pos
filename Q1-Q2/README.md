@@ -9,7 +9,7 @@
 
 <b>Display:</b> 5.5" HD Screen, Highest Resolution 1280 x 720
 
-Touch: Capacitive Multi point Touch
+<b>Touch:</b> Capacitive Multi point Touch
 
 <b>Camera:</b> 5,000,000 Fixed Focus
 
