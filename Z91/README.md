@@ -30,18 +30,18 @@ SIM Slot: 2Pcs
 
 USB interface: USB Type-C
 
-Communication:
+<b>Communication:</b>
 - 4G , 3 G and 2 G network
 - Wi-fi communications, support hot spots
 - Bluetooth communication
 
 GPS: Support GPS and AGPS
 
-Camera: 5 Mega-pixel camera
+<b>Camera:</b> 5 Mega-pixel camera
 
-Bar-code reader: Support 1 d / 2 d scanning
+<b>Bar-code reader:</b> Support 1 d / 2 d scanning
 
-SIM card bands:
+<b>SIM card bands:</b>
 - GSM：B2/3/5/8
 
 - WCDMA：B1/2/5/8
@@ -60,4 +60,4 @@ SIM card bands:
 - Input: 110 v to 240 v AC / 50 ~ 60 hz
 - Output: 5 v DC / 2 A
 
-<b>Size:</b> 199.75mm×83mm×57.5mm
+<b>Size:</b> 199.75mm × 83mm × 57.5mm
