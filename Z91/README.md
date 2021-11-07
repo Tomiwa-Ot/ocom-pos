@@ -26,9 +26,7 @@ SIM Slot: 2Pcs
 
 (If  selected SAM slot, will occupy a SIM card slot location)
 
-RFID
-
-Support ISO/IEC 14443 Type  A&B,NFC, Mifare, felica card
+<b>RFID:</b> Support ISO/IEC 14443 Type  A&B,NFC, Mifare, felica card
 
 USB interface: USB Type-C
 
@@ -54,12 +52,12 @@ SIM card bands:
 
 - TDD-LTE：B38 39 40 41
 
-Password keyboard: Built-in password keyboard (virtual) Support DES, 3 DES, RSA, SHA - 256 and AES algorithm
+<b>Password keyboard:</b> Built-in password keyboard (virtual) Support DES, 3 DES, RSA, SHA - 256 and AES algorithm
 
-Battery: Lithium battery: 2800 mAh, 7.4V
+<b>Battery:</b> Lithium battery: 2800 mAh, 7.4V
 
-Power adapter:
+<b>Power adapter:</b>
 - Input: 110 v to 240 v AC / 50 ~ 60 hz
 - Output: 5 v DC / 2 A
 
-Size: 199.75mm×83mm×57.5mm
+<b>Size:</b> 199.75mm×83mm×57.5mm
