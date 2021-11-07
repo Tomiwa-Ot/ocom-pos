@@ -1,1 +1,65 @@
 ### https://www.ocominc.com/products/5.5-Handheld-Android-POS-Terminal-with-58mm-Thermal-Printer.html
+
+OS: Android 9.0
+
+CPU: ARM Cortex-A53  Quad core MT6739
+
+RAM：2GB
+
+FLASH：16GB
+
+Extended stored: Micro SD card interface
+
+Display screen: 5.5  inch screen touch
+
+Touch screen: Capacitive  touch  screen
+
+Resolution display: 1280*720
+
+Printer: Built-in high speed 58mm thermal printer
+
+Width: 58mm,Diameter≤40mm
+
+SAM Slot: 1Pcs(Optional)
+
+SIM Slot: 2Pcs
+
+(If  selected SAM slot, will occupy a SIM card slot location)
+
+RFID
+
+Support ISO/IEC 14443 Type  A&B,NFC, Mifare, felica card
+
+USB interface: USB Type-C
+
+Communication:
+- 4G , 3 G and 2 G network
+- Wi-fi communications, support hot spots
+- Bluetooth communication
+
+GPS: Support GPS and AGPS
+
+Camera: 5 Mega-pixel camera
+
+Bar-code reader: Support 1 d / 2 d scanning
+
+SIM card bands:
+- GSM：B2/3/5/8
+
+- WCDMA：B1/2/5/8
+
+- TD-SDMA:B34/39
+
+- FDD-LTE：B1/3/4/5/7//20
+
+- TDD-LTE：B38 39 40 41
+
+Password keyboard: Built-in password keyboard (virtual) Support DES, 3 DES, RSA, SHA - 256 and AES algorithm
+
+Battery: Lithium battery: 2800 mAh, 7.4V
+
+Power adapter:
+- Input: 110 v to 240 v AC / 50 ~ 60 hz
+- Output: 5 v DC / 2 A
+
+Size: 199.75mm×83mm×57.5mm
