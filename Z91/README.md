@@ -1,12 +1,12 @@
 ### https://www.ocominc.com/products/5.5-Handheld-Android-POS-Terminal-with-58mm-Thermal-Printer.html
 
-OS: Android 9.0
+<b>OS:</b> Android 9.0
 
-CPU: ARM Cortex-A53  Quad core MT6739
+<b>CPU:</b> ARM Cortex-A53  Quad core MT6739
 
-RAM：2GB
+<b>RAM</b> 2GB
 
-FLASH：16GB
+<b>FLASH</b> 16GB
 
 Extended stored: Micro SD card interface
 
