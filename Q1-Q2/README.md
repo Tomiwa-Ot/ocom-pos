@@ -19,7 +19,7 @@
 
 <b>Network:</b> GSM900/1800 WCDMA2100 TD-SCDMA:B34 B39/ FDD-LTE:B1 B3 / TDD-LTE:B38 B39 B40 B41
 
-Bluetooth: Bluetooth 4.0
+<b>Bluetooth:</b> Bluetooth 4.0
 
 <b>WIFI:</b> WIFI 802.11 b.g.n
 
@@ -37,10 +37,10 @@ Printer: 58mm Thermal Receipt Printer, Printing Speed 90mm/s, Work Life 50 Km
 
 Paper Roll: Max Diameter 42mm
 
-Power Adapter:
+<b>Power Adapter:</b>
 
 - Input：100-240V/1.5A 50/60Hz
 
 - Output：12V 1A
 
-Dimension: 209.2mm (L) x 87.4mm (W) x 51.7mm (H)
+<b>Dimension:</b> 209.2mm (L) x 87.4mm (W) x 51.7mm (H)
