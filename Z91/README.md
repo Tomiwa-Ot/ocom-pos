@@ -8,11 +8,11 @@
 
 <b>FLASH</b> 16GB
 
-Extended stored: Micro SD card interface
+<b>Extended stored:</b> Micro SD card interface
 
-Display screen: 5.5  inch screen touch
+<b>Display screen:</b> 5.5  inch screen touch
 
-Touch screen: Capacitive  touch  screen
+<b>Touch screen:</b> Capacitive  touch  screen
 
 Resolution display: 1280*720
 
@@ -20,9 +20,9 @@ Printer: Built-in high speed 58mm thermal printer
 
 Width: 58mm,Diameter≤40mm
 
-SAM Slot: 1Pcs(Optional)
+<b>SAM Slot:</b> 1Pcs(Optional)
 
-SIM Slot: 2Pcs
+<b>SIM Slot:</b> 2Pcs
 
 (If  selected SAM slot, will occupy a SIM card slot location)
 
