@@ -2,39 +2,39 @@
 
 <b>OS:</b> Android 7.1
 
-RAM: 1GB
+<b>RAM:</b> 1GB
 
-FLASH: 8GB
+<b>FLASH:</b> 8GB
 
-Display: 5.0 inches
+<b>Display:</b> 5.0 inches
 
-Touch screen: Capacitive touch screen, supporting electronics
+<b>Touch screen:</b> Capacitive touch screen, supporting electronics
 
-Battery: Lithium battery 2800 mAh, 7.4 volts
+<b>Battery:</b> Lithium battery 2800 mAh, 7.4 volts
 
-Bluetooth: Bluetooth 4.0
+<b>Bluetooth:</b> Bluetooth 4.0
 
-Camera: 5 megapixel camera
+<b>Camera:</b> 5 megapixel camera
 
-Positioning function: GPS AGPS WLAN for Pos itioning
+<b>Positioning function:</b> GPS AGPS WLAN for Pos itioning
 
-Prinnter: 58mm thermal printer diameter 30mm paper roll
+<b>Printer:</b> 58mm thermal printer diameter 30mm paper roll
 
-Interface: Micro USB
+<b>Interface:</b> Micro USB
 
-Magnetic card reader:
+<b>Magnetic card reader:</b>
 
 - Full-track magnetic card reader
 
 - Support ISO1788 / 7812, AAMVA protocol
 
-IC card reading and writing: Support ISO7816 protocol
+<b>IC card reading and writing:</b> Support ISO7816 protocol
 
-Contactless card reader: Support ISO / IEC 14443 A & B, Mifare, felica Card, in line with EMV / PBOC PAYPASS specification
+<b>Contactless card reader:</b> Support ISO / IEC 14443 A & B, Mifare, felica Card, in line with EMV / PBOC PAYPASS specification
 
-PSAM card: Bank secure payment chip card
+<b>PSAM card:</b> Bank secure payment chip card
 
-Prove:
+<b>Prove:</b>
 
 - UnionPay card acceptance terminal network detection
 
@@ -44,9 +44,9 @@ Prove:
 
 - UnionPay intelligent security standard point of sale terminal
 
-Network Type: GSM, WCDMA, TD-SCDMA, FDD-LET, TDD-LTE
+<b>Network Type:</b> GSM, WCDMA, TD-SCDMA, FDD-LET, TDD-LTE
 
-Network spectrum:
+<b>Network spectrum:</b>
 
 - GSM850 / 900/1800/1900
 
@@ -58,15 +58,15 @@ Network spectrum:
 
 - TDD-LTE B38 / B39 / B40 / B41
 
-WLAN: IEEEE802.11.b / N / G
+<b>WLAN:</b> IEEEE802.11.b / N / G
 
-Size: 191 mm × 80 mm × 46 mm
+<b>Size:</b> 191 mm × 80 mm × 46 mm
 
-Weight: 650 grams
+<b>Weight:</b> 650 grams
 
-Operating temperature: -20 ° C ~ 60 ° C
+<b>Operating temperature:</b> -20 ° C ~ 60 ° C
 
-Storage temperature: -40°C~80°C
+<b>Storage temperature:</b> -40°C~80°C
 
-Humidity: 10%~90% RH without condensation
+<b>Humidity:</b> 10%~90% RH without condensation
 
