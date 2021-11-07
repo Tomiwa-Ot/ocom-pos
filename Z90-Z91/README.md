@@ -8,9 +8,9 @@ FLASH: 8GB
 
 Display: 5.0 inches
 
-touch screen: Capacitive touch screen, supporting electronics
+Touch screen: Capacitive touch screen, supporting electronics
 
-battery: Lithium battery 2800 mAh, 7.4 volts
+Battery: Lithium battery 2800 mAh, 7.4 volts
 
 Bluetooth: Bluetooth 4.0
 
