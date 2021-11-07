@@ -28,14 +28,14 @@ SIM Slot: 2Pcs
 
 <b>RFID:</b> Support ISO/IEC 14443 Type  A&B,NFC, Mifare, felica card
 
-USB interface: USB Type-C
+<b>USB interface:</b> USB Type-C
 
 <b>Communication:</b>
 - 4G , 3 G and 2 G network
 - Wi-fi communications, support hot spots
 - Bluetooth communication
 
-GPS: Support GPS and AGPS
+<b>GPS:</b> Support GPS and AGPS
 
 <b>Camera:</b> 5 Mega-pixel camera
 
