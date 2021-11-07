@@ -21,9 +21,9 @@
 
 Bluetooth: Bluetooth 4.0
 
-WIFI: WIFI 802.11 b.g.n
+<b>WIFI:</b> WIFI 802.11 b.g.n
 
-Speaker: 1W Single Channel
+<b>Speaker:</b> 1W Single Channel
 
 <b>Microphone:</b> MIC Input
 
