@@ -14,11 +14,11 @@
 
 <b>Touch screen:</b> Capacitive  touch  screen
 
-Resolution display: 1280*720
+<b>Resolution display:</b> 1280*720
 
-Printer: Built-in high speed 58mm thermal printer
+<b>Printer:</b> Built-in high speed 58mm thermal printer
 
-Width: 58mm,Diameter≤40mm
+<b>Width:</b> 58mm,Diameter≤40mm
 
 <b>SAM Slot:</b> 1Pcs(Optional)
 
