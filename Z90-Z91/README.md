@@ -14,93 +14,59 @@ battery: Lithium battery 2800 mAh, 7.4 volts
 
 Bluetooth: Bluetooth 4.0
 
-camera: 5 megapixel camera
+Camera: 5 megapixel camera
 
 Positioning function: GPS AGPS WLAN for Pos itioning
 
-printer: 58mm thermal printer diameter 30mm paper roll
+Prinnter: 58mm thermal printer diameter 30mm paper roll
 
-interface
+Interface: Micro USB
 
-Micro USB
+Magnetic card reader:
 
-POS function
+- Full-track magnetic card reader
 
-Magnetic card reader
+- Support ISO1788 / 7812, AAMVA protocol
 
-Full-track magnetic card reader
+IC card reading and writing: Support ISO7816 protocol
 
-Support ISO1788 / 7812, AAMVA protocol
+Contactless card reader: Support ISO / IEC 14443 A & B, Mifare, felica Card, in line with EMV / PBOC PAYPASS specification
 
-IC card reading and writing
+PSAM card: Bank secure payment chip card
 
-Support ISO7816 protocol
+Prove:
 
-Contactless card reader
+- UnionPay card acceptance terminal network detection
 
-Support ISO / IEC 14443 A & B, Mifare, felica
+- EMV / PBOC3.0 L1 and L2 certification
 
-Card, in line with EMV / PBOC PAYPASS
+- EMV / qPBOC3.0 L1 and L2 certification
 
-specification
+- UnionPay intelligent security standard point of sale terminal
 
-PSAM card
+Network Type: GSM, WCDMA, TD-SCDMA, FDD-LET, TDD-LTE
 
-Bank secure payment chip card
+Network spectrum:
 
-prove
+- GSM850 / 900/1800/1900
 
-UnionPay card acceptance terminal network detection
+- WCDMA2100 / 1900 / 900/850
 
-EMV / PBOC3.0 L1 and L2 certification
+- TD-SCDMA B34 / B39
 
-EMV / qPBOC3.0 L1 and L2 certification
+- FDD-LTE B1 / B2 / B3 / B4 / B5 / B7 / B8 / B20
 
-UnionPay intelligent security standard point of sale terminal
+- TDD-LTE B38 / B39 / B40 / B41
 
-Network parameters
+WLAN: IEEEE802.11.b / N / G
 
-Network Type
+Size: 191 mm × 80 mm × 46 mm
 
-GSM, WCDMA, TD-SCDMA, FDD-LET, TDD-LTE
+Weight: 650 grams
 
-Network spectrum
+Operating temperature: -20 ° C ~ 60 ° C
 
-GSM850 / 900/1800/1900
+Storage temperature: -40°C~80°C
 
-WCDMA2100 / 1900 / 900/850
-
-TD-SCDMA B34 / B39
-
-FDD-LTE B1 / B2 / B3 / B4 / B5 / B7 / B8 / B20
-
-TDD-LTE B38 / B39 / B40 / B41
-
-WLAN
-
-IEEEE802.11.b / N / G
-
-Physical parameter
-
- 
-
-size
-
-191 mm × 80 mm × 46 mm
-
-weight
-
-650 grams
-
-Operating temperature
-
--20 ° C ~ 60 ° C
-
-Storage temperature
-
--40°C~80°C
-
-humidity
-
-10%~90% RH without condensation
+Humidity: 10%~90% RH without condensation
 
