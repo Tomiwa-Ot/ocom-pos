@@ -27,15 +27,15 @@
 
 <b>Microphone:</b> MIC Input
 
-Button: Power button, Scan Button
+<b>Button:</b> Power button, Scan Button
 
-I/O: Charging Socket, USB, SIM Slot
+<b>I/O:</b> Charging Socket, USB, SIM Slot
 
-Battery: 7.4V / 5000mAh
+<b>Battery:</b> 7.4V / 5000mAh
 
-Printer: 58mm Thermal Receipt Printer, Printing Speed 90mm/s, Work Life 50 Km
+<b>Printer:</b> 58mm Thermal Receipt Printer, Printing Speed 90mm/s, Work Life 50 Km
 
-Paper Roll: Max Diameter 42mm
+<b>Paper Roll:</b> Max Diameter 42mm
 
 <b>Power Adapter:</b>
 
